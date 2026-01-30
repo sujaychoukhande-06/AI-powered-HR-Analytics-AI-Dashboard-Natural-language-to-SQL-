@@ -1,0 +1,2 @@
+# AI-powered-HR-Analytics-AI-Dashboard-Natural-language-to-SQL-
+The AI-Powered HR Analytics Dashboard addresses this gap by enabling natural language interaction with HR data, allowing decision-makers to obtain business-ready insights instantly. The system integrates Artificial Intelligence, SQL analytics, and an interactive web interface to convert plain-English questions into accurate, real-time HR analytics
